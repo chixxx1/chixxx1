@@ -1,16 +1,12 @@
-## Hi there 👋
+## About me
+- **Junior Golang developer**
 
-<!--
-**chixxx1/chixxx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Technical Focus:
+  - **🔙 Backend Development**
+  - **🌐 Networks & Distributed Systems**
+  - **🏗️ System Architecture & Design**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <h3>Skills & Experience</h3>
+  <img src="https://skillicons.dev/icons?i=golang,postgres,git,py,html,css&perline=7" />
+</p>
